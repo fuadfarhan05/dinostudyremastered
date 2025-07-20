@@ -40,7 +40,7 @@ function MeMyself() {
     <div className="split-window-container">
       <div className="split-pane left-pane" style={{ width: dividerX }}>
         <div className="instructions">
-          <h2>Instructions:</h2>
+          <h2>Instructions</h2>
           <p>In this lesson, you will learn about the pronouns <strong>Me</strong>, <strong>Myself</strong>, and <strong>I</strong>. These words are used to talk about yourself in different ways.</p>
           <ul>
             <li>Me is used as the object of a verb or preposition. Example: "She gave the book to <strong>me</strong>."</li>
